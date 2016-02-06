@@ -82,6 +82,4 @@ public class EasyLib {
 	public static double getArrayLength(double[] array){ //How to use: getArrayLength(<ARRAYNAME>);
 		return array.length - 1; //Subtracting one gives you the length of all non zero, non negative numbers, remove the subtract one to get total
 	}	
-	//
-	public static 
 }
